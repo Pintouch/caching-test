@@ -1,3 +1,3 @@
 # caching-test
 
-Version 1
+Version 2
